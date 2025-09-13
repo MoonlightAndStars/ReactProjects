@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Parcel cache
+.parcel-cache/
+
+# Output directory
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
